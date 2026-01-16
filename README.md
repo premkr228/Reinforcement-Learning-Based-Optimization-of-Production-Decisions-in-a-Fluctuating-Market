@@ -1,0 +1,2 @@
+# Reinforcement-Learning-Based-Optimization-of-Production-Decisions-in-a-Fluctuating-Market
+A supplier must decide daily production for Products A and B under raw material limits and volatile market prices/demand. This project models the challenge as a finite-horizon Markov Decision Process (MDP). Using reinforcement learning and dynamic programming, it derives an optimal policy to maximize long-term profit despite uncertainty.
